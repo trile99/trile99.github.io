@@ -1,8 +1,8 @@
 @media all and (min-width: 1200px) and (max-width: 1600px){
-	#wrapper{
+	/* #wrapper{
 		display: grid;
 		grid-template-rows: 7fr 1fr;
-	}
+	} */
 	body{
 		margin: 0px;
 		font-family: Segoe UI;
