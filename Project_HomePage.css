@@ -60,15 +60,27 @@
 
 	input:focus::-webkit-input-placeholder { 
 	  	color: transparent !important;
+		  border: none; 
+		  border-width: 0; 
+		  box-shadow: none;
 	}
 	input:focus:-moz-placeholder { 
 	  	color: transparent !important;
+		  border: none; 
+		  border-width: 0; 
+		  box-shadow: none;
 	}
 	input:focus::-moz-placeholder { 
 	  	color: transparent !important;
+		  border: none; 
+		  border-width: 0; 
+		  box-shadow: none;
 	}
 	input:focus:-ms-input-placeholder { 
 	  	color: transparent !important;
+		  border: none; 
+		  border-width: 0; 
+		  box-shadow: none;
 	}
 
 	input[type="text"] {
